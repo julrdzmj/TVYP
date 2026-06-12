@@ -513,6 +513,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/featuredImage.jpg" group-title="PLUTO TV",PLUTO TV ANIMES HEROES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=1d32070e-dae1-4f58-bd0d-f5c74f89cd0f&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
 
+#EXTINF:-1 tvg-logo="https://assets.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="DEPORTES",DSPORTS
+https://bmf0aw9u.fubo18.com/dsports/mono.m3u8?token=47b3b600d847ec6ed77b9de18b3af86f1d7c696a-d5-1781244941-1781226941
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="DEPORTES",ESPN EXTRA 
 http://200.115.98.26:9000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="DEPORTES",ESPN EXTRA OP2
