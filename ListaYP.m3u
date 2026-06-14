@@ -198,5 +198,7 @@ http://45.5.117.172:8000/play/a02v/index.m3u8
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYCSPORTS OP2
 https://bmf0aw9u.fubo18.com/tycsports/mono.m3u8?token=172b72ba367f8390a56f705dcce5b2dfe8682019-90-1781409782-1781391782
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYCSPORTS OP3
+https://liqcy.vivolatamz.org/dsports/tracks-v1a1/mono.m3u8?ip=189.203.38.95&token=12d8a6b1865250fbe28e3f28a8091b113076bbd3-55-1781502899-1781448899
 
 
