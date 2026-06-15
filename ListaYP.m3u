@@ -56,6 +56,12 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 11]
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 12]
+https://y2fzdgxl.fubo18.com/eventos15/mono.m3u8?token=9a760e4fd4ef67e749c6913653ea4fed0e4d9ebf-b9-1781567772-1781549772
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 13]
+https://aw1wcm92zq.fubo18.com/dsportsplus/mono.m3u8?token=8e545dde1b59642d05f2b9c970f3bd28ed3b6a4b-d-1781567808-1781549808
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX + PREMIER LIGA (MPV)
 http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 
