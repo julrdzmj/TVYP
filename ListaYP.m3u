@@ -5,6 +5,8 @@ http://172.93.102.112:8989/158630_.m3u8
 http://190.60.37.154:45000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO",LAS ESTRELLAS HD OP3
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO",LAS ESTRELLAS 720P
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
@@ -12,7 +14,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
-http://45.5.119.43:4000/play/a05o/index.m3u8
+http://45.5.119.43:4000/play/a05o/53368930.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87598
 
