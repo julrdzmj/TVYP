@@ -17,9 +17,9 @@ http://45.5.119.43:4000/play/a05o/index.m3u8
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87598
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master_caption.m3u8
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL OP2 
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.m3u8
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO PUERTO RICO  
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
